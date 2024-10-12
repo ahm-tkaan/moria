@@ -1,16 +1,31 @@
-# moria
+# Moria: Burç Yorumları Uygulaması
 
-A new Flutter project.
+Moria, Flutter ile geliştirilmiş kullanıcı dostu bir burç yorumları uygulamasıdır. Günlük, haftalık, aylık ve yıllık burç yorumlarınıza kolayca erişmenizi sağlar.
 
-## Getting Started
+## Özellikler
 
-This project is a starting point for a Flutter application.
+* **Burç Yorumları:** Günlük, haftalık, aylık ve yıllık detaylı burç yorumları.
+* **Burç Bilgileri:** Her burcun detaylı açıklamaları ve büyük resimli görselleri.
+* **Kullanıcı Dostu Arayüz:**  Modern ve kolay gezilebilir tasarım.
+* **Material Design:** Google'ın Material Design prensiplerine uygun tasarım.
 
-A few resources to get you started if this is your first Flutter project:
+## Kullanılan Teknolojiler
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* **Flutter:** Google tarafından geliştirilen, cross-platform mobil uygulama geliştirme framework'ü.
+* **Dart:** Flutter uygulamalarını geliştirmek için kullanılan programlama dili.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Kurulum
+
+1. Flutter SDK'yı indirin ve kurun: [Flutter Kurulum](https://docs.flutter.dev/get-started/install)
+2. Projeyi klonlayın: `git clone https://github.com/kullanici_adiniz/moria.git`
+3. Gerekli paketleri yükleyin: `flutter pub get`
+4. Uygulamayı çalıştırın: `flutter run`
+
+## Katkıda Bulunma
+
+Katkıda bulunmak isteyenler pull request gönderebilirler.
+
+
+[Ahmet Kaan Çelenk] - [akaanclnk@gmail.com]
+
+Proje Linki: [https://github.com/ahm-tkaan/moria]
